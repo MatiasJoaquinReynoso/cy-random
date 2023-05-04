@@ -1,4 +1,4 @@
-# MELI - CHALLENGE - QA FRONTEND
+# PRACTICE - QA FRONTEND
 
 ## Hello everyone, my name is Matias Reynoso (QA / TAE).
 
