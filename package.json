@@ -1,0 +1,16 @@
+{
+  "name": "cy-random",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:execution": "cypress run --spec cypress/e2e/features/*",
+    "html-report":"cypress run --spec cypress/e2e/features/* --browser chrome"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.11.0",
+    "cypress-mochawesome-reporter": "^3.4.0"
+  }
+}
